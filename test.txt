@@ -1,0 +1,94 @@
+Food/Which nut is used to make dynamite?/Peanuts/Walnuts/Pine Nuts/Almonds/null/
+Food/What was the first cold breakfast cereal invented in 1863?/Granola/Corn Flakes/Bran Flakes/Cheerios/null/
+Food/Who invented Coca-Cola?/John Pemberton/Asa Griggs Candler/Charles Elmer Hires/John Matthews/null/
+Food/How many calories per gram are stored in protein?/Four/Three/Two/Five/null/
+Food/What is the only U.S. state to grow coffee beans?/Hawaii/California/Louisiana/Florida/null/
+Food/What is the main ingredient of a mince pie?/Fruit/Tofu/Vegetables/Potatoes/null/
+Food/Guinness beer was first brewed in which country?/Ireland/China/Australia/United States/null/
+Food/Which country serves as the home of the largest farm in the world?/China/Germany/United States/United Kingdom/null/
+Food/Which of the following farming techniques often results in the increase of pests and diseases?/Monocropping/Sequential Cropping/Intercropping/Relay Cropping/null/
+Food/According to legend, vampires are exceptionally vulnerable to which vegetable?/Garlic/Cabbage/Spinach/Broccoli/null/
+Food/Which of the following dishes is a combination of eggs, lemon juice and broth?/Avgolemono/Onsen Tamago/Century Eggs/Egg Drop Soup/null/
+Food/What happens if you put a rotten egg in water?/It'll float./It'll crack./It'll sink./It'll stop smelling./null/
+Food/What is the proper title for a person who makes pizzas in a pizzeria?/Pizzaiolo/Guv'nor/Pizzazzy/Chef de Cuisine/null/
+Food/A "hot dog" is a colloquial term used for what food?/Frankfurter/Hamburger Helper/Alpo/Twinkie/null/
+Food/What is the official State fruit of New York?/Apple/Strawberry/Watermelon/Tomato/null/
+Food/What Third World product is actually a staple in the American food industry?/Palm Oil/Cocoa Beans/Gari/Coconut Oil/null/
+Food/Red Vines is a popular brand of what type of candy?/Red licorice/Bubble gum/Gummy bears/Caramel/null/
+Food/What is eaten traditionally in the UK the day before Ash Wednesday?/Pancakes/Ice cream/Tiramisu/Cheesecake/null/
+Food/"Ital" is the word used to describe the cuisine of which group of people?/Rastafarians/Arabians/Italians/Vegetarians/null/
+Food/Who are the first people known to have consumed chocolate?/Olmecs/Hausa/Arawaks/Romans/null/
+Films/What year was the first Toy Story film released in cinemas?/1995/1999/2001/1992/null/
+Films/Who directed Titanic, Avatar and The Terminator?/Quentin Tarantino/James Cameron/Joss Whedon/Edgar Wright/null/
+Films/Which Oscar-winning actress is the voice of Helen Parr (Elastigirl) in The Incredibles?/Emma Stone/Kate Winslet/Holly Hunter/Julianne Moore/null/
+Films/Who played Freddy Krueger in the first eight Night on Elm Street movies?/Kane Hodder/Robert Englund/Jackie Earle Haley/Johnny Depp/null/
+Films/Which actor broke two toes whilst filming The Lord of the Rings: The Two Towers?/Viggo Mortensen/Elijah Wood/Ian McKellen/Orlando Bloom/null/
+Films/In which year was The Godfather first released?/1972/1982/1990/2000/null/
+Films/Which actor won the best actor Oscar for the films Philadelphia (1993) and Forrest Gump (1994)?/Tom Hanks/Johny Depp/Keanu Reeves/Robert Pattinson/null/
+Films/How many self-referential cameos did Alfred Hitchcock make in his films from 1927-1976?/37/35/33/36/null/
+Films/Which 1982 film was greatly accepted by film fans for its portrayal of the love between a young, fatherless suburban boy and a lost, benevolent and homesick visitor from another planet?/E.T. The Extra-Terrestrial/Alien/The Avengers/Starwars/null/
+Films/Which actress played Mary Poppins in the 1964 film Mary Poppins?/Julie Andrews/Emma Katherine Walton Hamilton/Emma Watson/Kate Elizabeth Winslet/null/
+Films/In which 1963 classic film did Charles Bronson appear?/The Great Escape/The Shining/The Matrix/The Breakfast Club/null/
+Films/In which 1995 film did Sandra Bullock play the character Angela Bennett – Wrestling Ernest Hemingway, The Net or 28 Days?/The Net/Birdbox/Gravity/Miss Congeniality/null/
+Films/Which New Zealand female director directed these films – In the Cut (2003), The Water Diary (2006) and Bright Star (2009)?/Jane Campion/Sofia Coppola/Patty Jenkins/Kathryn Bigelow/null/
+Films/Which actor provided the voice for the character Nemo in the 2003 film Finding Nemo?/Alexander Gould/James Cameron/Ryan Reynolds/Stanley Kubrick/null/
+Films/Which former Doctor Who actress played the part of Nebula in ‘Avengers:Infinity War’?/Karen Gillan/Scarlett Johansson/Emma Watson/Zendaya/null/
+Technology/Linux is a.../Monolithic Kernel/Microkernel/Hybrid Kernel/Simple Kernel/null/
+Technology/Johannes Gutenberg is known for which invention?/Printing Press/Revolver/Sewing Machine/Cotton Gin/null/
+Technology/What does GPS stand for?/Global Positioning System/Graphic Planetary Schematic/Ground Plan Scenario/General Polar Size/null/
+Technology/Which computer programming language was known for its turtle graphics?/Logo/Python/COBOL/C++/null/
+Technology/What company produced the Walkman?/Sony/JVC/Philips/Panasonic/null/
+Technology/In which decade was the American Institute of Electrical Engineers (AIEE) founded?/1880s/1850s/1930s/1950s/null/
+Technology/What is part of a database that holds only one type of information?/Field/Report/File/Record/null/
+Technology/'OS' computer abbreviation usually means ?/Operating System/Optical Sensor/Order of Significance/Open Software/null/
+Technology/In which decade with the first transatlantic radio broadcast occur?/1900s/1870s/1860s/1850s/null/
+Technology/'.MOV' extension refers usually to what kind of file?/Animation-movie file/Image file/Audio file/MS Office document/null/
+Technology/In which decade was the SPICE simulator introduced?/1970s/1980s/1950s/1960s/null/
+Technology/Most modern TV's draw power even if turned off. The circuit the power is used in does what function?/Remote Control/Sound/Color balance/High Voltage/null/
+Technology/Which is a type of Electrically-Erasable Programmable Read-Only Memory?/Flash/Flange/Fury/FRAM/null/
+Technology/The purpose of choke in tube light is ?/To increase the voltage momentarily/To decrease the current/To increase the current/To decrease the voltage momentarily/null/
+Technology/'.MPG' extension refers usually to what kind of file?/Animation-movie file/Image file/MS Office document/WordPerfect Document file/null/
+Technology/Who is largely responsible for breaking the German Enigma codes, created a test that provided a foundation for artificial intelligence?/Alan Turing/Jeff Bezos/George Boole/Charles Babbage/null/
+Technology/Who developed Yahoo?/David Filo & Jerry Yang/Dennis Ritchie & Ken Thompson/Vint Cerf & Robert Kahn/Steve Case & Jeff Bezos/null/
+Technology/Made from a variety of materials, such as carbon, which inhibits the flow of current...?/Resistor/Choke/Inductor/Capacitor/null/
+Technology/The most common format for a home video recorder is VHS. VHS stands for...?/Video Home System/Very high speed/Video horizontal standard/Voltage house standard/null/
+Technology/What does VVVF stand for?/Variable Voltage Variable Frequency/Very Very Vicious Frequency/Variable Velocity Variable Fun/Variant Voltage Vile Frequency/null/
+Science/The theory of relativity was introduced in physics by this man./Albert Einstein/Galileo Galilei/Archimedes/Isaac Newton/null/
+Science/What part of the eye determines what the color of it is ?/Iris/Lens/Cornea/Pupil/null/
+Science/What does a spectrometer help measure?/Light/Voltage/Liquid Density/Fermentation/null/
+Science/Which planet has the Great Red Spot?/Jupiter/Mercury/Mars/Venus/null/
+Science/How many different blood types can be found in the human body?/4/3/1/2/null/
+Science/Pollination by birds is called:/Ornithophily/Autogamy/Entomophily/Anemophily/null/
+Science/What percent of fire-related deaths are due to smoke inhalation rather than burns?/80%/10%/50%/99%/null/
+Science/The fastest-running terrestrial animal is:/Cheetah/Lion/Man/Jaguar/null/
+Science/Bees must collect nectar from approximately how many flowers to make 1 pound of honeycomb? Is it:/20 million/10 thousand/2 million/50 million/null/
+Science/Albacore is a type of:/Tuna/Shell-fish/Marble/Meteoroid/null/
+Science/The only species of cat that lives and hunts in groups is:/Lion/Leopard/Jaguar/Cougar/null/
+Science/Which prefix is often used with scientific terms to indicate that something is the same, equal or constant?/Iso/Mega/Meta/Quasi/null/
+Science/The study of phenomena at very low temperatures is called:/Cryogenics/Heat transfer/Morphology/Crystallography/null/
+Science/The branch of medical science which is concerned with the study of disease as it affects a community of people is called/Epidemiology/Oncology/Paleontogy/Pathology/null/
+Science/The study of how people use tools to perform work and how people physically relate to their working environment is called:/Ergonomics/Engineering/Agronomy/Physiology/null/
+Science/What famous scientist and inventor participated in the invention of the Aqua-Lung?/Jacques Cousteau/Leonardo da Vinci/Isaac Newton/Thomas Edison/null/
+Science/Superconductivity is a material property associated with:/A loss of electrical resistance/A loss of thermal resistance/Frictionless liquid flow/Cooling a substance without a phase change/null/
+Science/A type of plastic that is biodegradable has been in the news lately. The ingredient that makes it biodegradable is:/Cornstarch/Leather/Petroleum/Vegetable oil/null/
+Science/Who was the marine biologist and author of Silent Spring who was one of the first people to warn of the dangers of pesticides like DDT?/Rachel Carson/Jacques Cousteau/Charles Darwin/Marlin Perkins/null/
+Science/If a metal can be drawn into wires relatively easily it is called:/Ductile/Malleable/Extractive/Tactile/null/
+Technology/Who is the man in the picture?/Steve Jobs/Bill Gates/Jeff Bezos/Albert Einstein/images\im1.jpg/
+Films/Who is this actor?/Keanu Reeves/John Travolta/Dwayne Johnson/Vin Diesel/images\im2.jpg/
+Films/Who is this actor?/Morgan Freeman/Will Smith/Ice Cube/Rob Brown/images\im3.jpg/
+Films/Who is this actor?/Will Smith/Morgan Freeman/Steve Jobs/Robbert Pattinson/images\im3.jpg/
+Films/Who is this actress?/Scarlett Johansson/Angelina Jolie/Christina Hendricks/Jessica Biel/images\im4.jpg/
+Films/Who is this actress?/Winona Ryder/Minka Kelly/Charlize Theron/Blake Lively/images\im5.jpg/
+Films/Who is this actress?/Sofia Vergara/Amber Heard/Amanda Seyfried/Eva Green/images\im6.jpg/
+Films/Who is this actress?/Priyanka Chopra Jonas/Megan Fox/Alexandra Daddario/Jennifer Connelly/images\im20.jpg/
+Food/Who is this chef?/Hector Botrini/Guy Fieri/JJ Johnson/Bobby Flay/images\im8.jpg/
+Food/Who is this chef?/Gordon Ramsay/Wolfgang Puck/Masaharu Morimoto/Jamie Oliver/images\im7.jpg/
+Food/What fruit is this?/Kiwi/Apple/Banana/Melon/images\im15.jpg/
+Food/What food is this?/Eggs/Pasta/Pie/Meat/images\im16.jpg/
+Food/What fish is this?/Salmon/Goldfish/Herring/Pufferfish/images\im17.jpg/
+Food/What is this fruit?/Tomato/Strawberry/Apple/Watermelon/images\im18.jpg/
+Science/Who is the man in the picture?/Albert Einstein/Isaac Newton/Andre-Marie Ampere/Anaximander/images\im9.jpg/
+Science/Who is the man in the picture?/Nicolai Tesla/Archimedes/Aristarchus/Amedeo Avogadro/images\im10.jpg/
+Science/Who is the man in the picture?/Alan Turing/Francis Bacon/Alexander Graham Bell/Daniel Bernoulli/images\im11.jpg/
+Science/Who is this man in the picture?/Benjamin Franklin/Niels Bohr/Robert Boyle/Tycho Brahe/images\im12.jpg/
+Science/Who is this man in the picture?/Stephen Hawking/B.F. Skinner/Theodor Schwann/Ernest Rutherford/images\im13.jpg/
